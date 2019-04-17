@@ -26,4 +26,5 @@ public class HelloController {
     
     // read-only test
     // pr test
+    // pr test by admin
 }
